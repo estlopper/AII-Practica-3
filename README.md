@@ -2,5 +2,5 @@
 2) python manage.py startapp main
 3) python manage.py runserver
 
-python manage.py makemigrations
-python manage.py migrate
+4) python manage.py makemigrations
+5) python manage.py migrate
